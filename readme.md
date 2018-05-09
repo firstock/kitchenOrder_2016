@@ -6,6 +6,7 @@ When customers order from each table, refer to DB membership number and food men
 ## contributor
 - client: Jin jae-geun, Lee sun-min
 - server: Byeon gyeong-seob, Kim hyung-jun, Choe Byeong-tae
+- helper: Seog-jin
 
 ## struct
 - server_hall
